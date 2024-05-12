@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "webkert-3d644": {
+      "hosting": {
+        "butorwebshop": [
+          "webkert-3d644"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "webkert-3d644"
+  }
+}
